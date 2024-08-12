@@ -38,11 +38,43 @@ pip install deepgram-sdk
 pip install grammar-check
 pip install textblob
 ```
+Here's the content formatted in Markdown:
 
+```markdown
 ## 4. Prepare Your Files
 
 Create a folder named `Files` and place all your slides in it.
 
+The directory structure should look like this:
+
+```
+C:.
+│   Cognate Communities of Practice Week.pptx
+│   Installation.txt
+│
+└───Demo1
+    │   Approach1-UsingPython.py
+    │   Approach2-UsingPythonAndWindowsAPI.py
+    │
+    └───Files
+            TECH1100 Week 01 Workshop.pptx
+            TECH1100 Week 02 Workshop.pptx
+            TECH1100 Week 03 Workshop.pptx
+            TECH1100 Week 04 Workshop.pptx
+            TECH1100 Week 05 Workshop.pptx
+            TECH1100 Week 06 Workshop.pptx
+            TECH1100 Week 07 Workshop.pptx
+            TECH1100 Week 08 Workshop.pptx
+            TECH1100 Week 09 Workshop.pptx
+            TECH1100 Week 10 Workshop.pptx
+            TECH1100 Week 11 Workshop.pptx
+            TECH1100 Week 12 Workshop.pptx
+```
+
+Ensure the files are placed correctly as shown in the structure above.
+```
+ 
+            
 ## 5. Execute Approaches
 
 ### Approach 1: Using Python
