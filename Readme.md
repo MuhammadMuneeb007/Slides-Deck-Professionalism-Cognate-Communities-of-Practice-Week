@@ -101,7 +101,7 @@ python Approach1-UsingPython
 ### Approach 2: Using Python and Windows API
 
 - **Speed:** Slow
-- **Features:** Advanced features. Only processes words on Windows and requires COM library.
+- **Features:** Advanced features. Only processes slide on Windows and require COM library.
 
 Run the following command:
 
